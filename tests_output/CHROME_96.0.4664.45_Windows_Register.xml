@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="Register"
+    errors="0" failures="1" hostname="" id="" package="Register" skipped="0"
+    tests="1" time="75.94" timestamp="">
+  
+    <testcase name="Register User" classname="Register" time="75.94" assertions="3">
+
+    
+
+      <failure message="Testing if element &lt;body&gt; contains text &#39;Sign Out&#39; in 5000ms - expected &#34;contains text &#39;Sign Out&#39;&#34; but got: &#34;does not contain &#39;Sign Out&#39;&#34; (5095ms)">    at Object.Register User (C:\Users\User\Documents\nightwatchjs\tests\Register.js:17:17)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
