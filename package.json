@@ -1,0 +1,19 @@
+{
+  "name": "nightwatchjs",
+  "version": "1.0.0",
+  "description": "Automation in nightwatchJS framework",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chromedriver": "^90.0.1",
+    "fs": "0.0.1-security",
+    "handlebars": "^4.7.7",
+    "nightwatch": "^1.7.12",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "adebayo",
+  "license": "ISC"
+}
