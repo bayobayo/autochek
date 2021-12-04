@@ -9,7 +9,7 @@ module.exports = {
         //.waitForElementVisible('body')
         .setValue('@firstName', 'bayo') // input first name
         .setValue('@lastName', 'Akinbi') // input last name
-        .setValue('@email', 'bayo@mailinator.com') // input email address
+        .setValue('@email', 'bayo1@mailinator.com') // input email address, always change email or write script for random emails
         .setValue('@phone', '8082687230') // input phone number
         .setValue('@password', 'microsoft') // input password
         .setValue('@referral', '12WERTY') // input referral code
